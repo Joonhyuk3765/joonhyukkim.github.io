@@ -10,9 +10,8 @@ redirect_from:
 I am a PhD student in Economics at Korea University, specialising in applied microeconomics.
 
 My primary research interests lie in studying the impact of public programmes on labour market outcomes and health status.
-Research Interests: Labour Economics, Health Economics, Family Economics, Sports Economics, and Applied Microeconomics
+**Research Interests**: Labour Economics, Health Economics, Family Economics, Sports Economics, and Applied Microeconomics
 
-I am also affiliated with Korea Institute of Public Finance (KIPF). 
+I am also a full-time researcher at the Korea Institute of Public Finance (KIPF) in South Korea. 
 
-Thanks for visiting!
 Contact: jhkim3765@gmail.com / jhkim3765@kipf.re.kr
